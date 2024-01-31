@@ -1,5 +1,5 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+<*-- README.md is generated from README.Rmd. Please edit that file -->
 
 # pkgdown <img src="man/figures/logo.png" align="right" alt="" width="120" />
 
@@ -111,3 +111,4 @@ new pkgdown techniques.
 Please note that this project is released with a [Contributor Code of
 Conduct](https://pkgdown.r-lib.org/CODE_OF_CONDUCT.html). By
 participating in this project you agree to abide by its terms.
+ 
